@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:samples_flutter/ui/screens/home_landscape_screen.dart';
-import 'package:samples_flutter/ui/screens/home_portrait_screen.dart';
+
+import 'home_landscape_screen.dart';
+import 'home_portrait_screen.dart';
 
 class HomeScreen1 extends StatelessWidget {
   const HomeScreen1({Key? key}) : super(key: key);

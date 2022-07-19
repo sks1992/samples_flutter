@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:samples_flutter/ui/widgets/card_1_widgets.dart';
+
+import '../../demo1/widgets/card_1_widgets.dart';
 
 class HomePortraitScreen extends StatelessWidget {
   const HomePortraitScreen({Key? key}) : super(key: key);
